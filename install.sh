@@ -57,4 +57,4 @@ wget --show-progress -q -O ~/.local/share/nautilus-python/extensions/code-nautil
 echo "Reiniciando Nautilus..."
 nautilus -q
 
-echo "Instalação completa!"
+echo "Instalação finalizada!"
