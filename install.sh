@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install python-nautilus
-echo "Installing python-nautilus..."
+echo "Instalando python-nautilus..."
 if type "pacman" > /dev/null 2>&1
 then
     # check if already install, else install
