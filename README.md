@@ -1,4 +1,4 @@
-# code-nautilus
+# :brazil: code-nautilus
 
 This repo provides a visual studio code extension for Nautilus.
 
